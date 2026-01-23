@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SyncProfileTest__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Field created to test Sync Profile with the branch.</description>
+    <label>SyncProfileTest</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
